@@ -9,3 +9,12 @@
 **Link(s) to work**
 1. [steps-tracker](https://bitbucket.org/drewwestcott/steps-tracker/commits/95a57534f2bbc32b7ab3f23c30bc63cb43662c85)
 
+### Day 2: January 4, Wednesday
+
+**Today's Progress**: More of the 20% work for my watchOS project and started investigating alogithms exercises (today's from weheartswift).
+
+**Thoughts** For the first exercise on weheartswift I was going to iterate over the string and take each letter in turn to append to a new string, then I remembered seeing swifts array reverse() method. So started down that line instead. The second exercise I coded in a basic fashion and satisfied all the tests. However, the solution was an much more elegant way to code it.
+
+**Link(s) to work**
+1. [steps-tracker](https://bitbucket.org/drewwestcott/steps-tracker/commits/8ebd41225af3a88eab4caa65b9b1259eb4bbcfb3)
+2. [exercises](https://github.com/drewwestcott/we-SwiftExercises/commit/3b96954c79bb11f717a0d3b0b884d3217d476050)
