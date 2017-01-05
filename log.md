@@ -18,3 +18,12 @@
 **Link(s) to work**
 1. [steps-tracker](https://bitbucket.org/drewwestcott/steps-tracker/commits/8ebd41225af3a88eab4caa65b9b1259eb4bbcfb3)
 2. [exercises](https://github.com/drewwestcott/we-SwiftExercises/commit/3b96954c79bb11f717a0d3b0b884d3217d476050)
+
+### Day 3: January 5, Thursday
+
+**Today's Progress**: Completed a couple more alogithms exercises (today's from weheartswift).
+
+**Thoughts** Today has been interesting. I managed to code the exercises quite easily and got very close to the suggested solution, with my own code feeling slightly more refined. The second exercise on palindrome landscape took me a while to understand the brief. My first try did not satisfy the tests, but after reading the hints a couple of time I managed to satisfy the test and like my code.
+
+**Link(s) to work**
+1. [exercises] (https://github.com/drewwestcott/we-SwiftExercises/commit/cfa53143a9c7c3765f41f93e4e263f2603eaa362)
