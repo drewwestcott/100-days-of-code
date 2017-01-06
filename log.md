@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [exercises] (https://github.com/drewwestcott/we-SwiftExercises/commit/cfa53143a9c7c3765f41f93e4e263f2603eaa362)
+
+### Day 4: January 6, Friday
+
+**Today's Progress**: Completed a couple more  exercises (today's again from weheartswift).
+
+**Thoughts** Wow, I had to think about this one. I nearly wrote code to test all numbers up to i each time, but after reviewing the idea Prime Numbers realised I could use square roots in the equation.
+
+**Link(s) to work**
+1. [exercises] https://github.com/drewwestcott/we-SwiftExercises/commit/aecf99585c1f2e834921288abeec1f0654daadf6
