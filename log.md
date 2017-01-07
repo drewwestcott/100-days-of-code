@@ -36,3 +36,12 @@
 
 **Link(s) to work**
 1. [exercises] https://github.com/drewwestcott/we-SwiftExercises/commit/aecf99585c1f2e834921288abeec1f0654daadf6
+
+### Day 5: January 7, Saturday
+
+**Today's Progress**: Debugging. 
+
+**Thoughts** Stuck with a tutoiral I had been following outside of hour of code. Decided to try and debug the 'selector sent to instance bug' so I can continue with the tutorials. Good practice working through break points and google searches.
+
+**Link(s) to work**
+1. [project] https://bitbucket.org/drewwestcott/set-capture/commits/5c68de351f91f6358553a79445f0ef0ca638a7fd
