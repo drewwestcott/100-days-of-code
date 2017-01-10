@@ -45,3 +45,21 @@
 
 **Link(s) to work**
 1. [project] https://bitbucket.org/drewwestcott/set-capture/commits/5c68de351f91f6358553a79445f0ef0ca638a7fd
+
+### Day 6: January 8, Sunday
+
+**Today's Progress**: First Pull Request. 
+
+**Thoughts** Have been getting used to commits and branching in my git. Today I decided to set the Master branch? to be the current state of development. Managed it and have given the App to a user to test.
+
+**Link(s) to work**
+1. [project] https://bitbucket.org/drewwestcott/steps-tracker/pull-requests/1/watch-connectivity-and-complications#comment-None
+
+### Day 7: January 10, Tuesday
+
+**Today's Progress**: Code Kata. 
+
+**Thoughts** Realised I am going to need a settings screen for my project before it goes live. Couldn't quite remember how do dismiss the on the screen keyboard once a user finished with a text field, so created a project to practise just that.
+
+**Link(s) to work**
+1. [code-kata] https://github.com/drewwestcott/Target-Setting/commit/0b050351c0a8baf7234ec8dd4cfd8f4eefb5c9ee
