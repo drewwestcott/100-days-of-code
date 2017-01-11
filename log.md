@@ -63,3 +63,12 @@
 
 **Link(s) to work**
 1. [code-kata] https://github.com/drewwestcott/Target-Setting/commit/0b050351c0a8baf7234ec8dd4cfd8f4eefb5c9ee
+
+### Day 8: January 11, Wednesday
+
+**Today's Progress**: Test animation. 
+
+**Thoughts** Wanted to put text over the top of an image/animation for a WatchOS App. Did some research to see if it was possible and then practiced by creating a small App to prove it would work.
+
+**Link(s) to work**
+1. [project] https://github.com/drewwestcott/watchOS-background-test/commit/c2bb4d34d074a46e46498e214ad7ead289cfc924
