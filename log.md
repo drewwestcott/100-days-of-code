@@ -72,3 +72,12 @@
 
 **Link(s) to work**
 1. [project] https://github.com/drewwestcott/watchOS-background-test/commit/c2bb4d34d074a46e46498e214ad7ead289cfc924
+
+### Day 9: January 12, Thursday
+
+**Today's Progress**: Exercise. 
+
+**Thoughts** Read the Nobody's Decision exercise from weheartswift.com. Took me a little bit of time to work out an approach, but code past all tests.
+
+**Link(s) to work**
+1. [exercise] https://github.com/drewwestcott/we-SwiftExercises/blob/master/decisions.swift
