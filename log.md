@@ -81,3 +81,12 @@
 
 **Link(s) to work**
 1. [exercise] https://github.com/drewwestcott/we-SwiftExercises/blob/master/decisions.swift
+
+### Day 10: January 13, Friday
+
+**Today's Progress**: Made Changes to Step Tracker project based on user feedback. 
+
+**Thoughts** Feedback suggested some of the information displayed was confusing, so have adjusted based on feedback.
+
+**Link(s) to work**
+1. [exercise]https://bitbucket.org/drewwestcott/steps-tracker/commits/9ff08212034bc68c6c9d6d6db6bbc98d2ada4d7b
