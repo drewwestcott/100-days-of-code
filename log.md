@@ -89,4 +89,13 @@
 **Thoughts** Feedback suggested some of the information displayed was confusing, so have adjusted based on feedback.
 
 **Link(s) to work**
-1. [exercise]https://bitbucket.org/drewwestcott/steps-tracker/commits/9ff08212034bc68c6c9d6d6db6bbc98d2ada4d7b
+1. [project]https://bitbucket.org/drewwestcott/steps-tracker/commits/9ff08212034bc68c6c9d6d6db6bbc98d2ada4d7b
+
+### Day 11: January 14, Saturday
+
+**Today's Progress**: Updated Graphics in my App and refactored the complication code. 
+
+**Thoughts** Feels like I'm getting close to being able to beta the App.
+
+**Link(s) to work**
+1. [project]https://bitbucket.org/drewwestcott/steps-tracker/commits/4422b6436b8f95adcd8bbb5f3c7d0887599a0e9d
