@@ -99,3 +99,12 @@
 
 **Link(s) to work**
 1. [project]https://bitbucket.org/drewwestcott/steps-tracker/commits/4422b6436b8f95adcd8bbb5f3c7d0887599a0e9d
+
+### Day 12: January 15, Sunday
+
+**Today's Progress**: Tracked down a bug introduced by yesterday's code. 
+
+**Thoughts** Complications stopped reliably updating, so had to check code changes yesterday and work out what was wrong. Decided that the scheduleBackgroundRefresh() needed to be outside my closure.
+
+**Link(s) to work**
+1. [project]https://bitbucket.org/drewwestcott/steps-tracker/commits/23ac458574b6bc716bf5ec015cbac85580cba932
