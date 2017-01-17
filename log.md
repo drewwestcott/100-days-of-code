@@ -108,3 +108,21 @@
 
 **Link(s) to work**
 1. [project]https://bitbucket.org/drewwestcott/steps-tracker/commits/23ac458574b6bc716bf5ec015cbac85580cba932
+
+### Day 13: January 16, Monday
+
+**Today's Progress**: Worked on my App again. 
+
+**Thoughts** Managed to set up a settings screen and create a Popover Modal to present it.
+
+**Link(s) to work**
+1. [project]https://bitbucket.org/drewwestcott/steps-tracker/commits/a130043aef7713e821c767f48571c5b7936575e3
+
+### Day 14: January 17, Tuesday
+
+**Today's Progress**: Code Kata for Watch Connectivity. 
+
+**Thoughts** Really not got the code needed to connectivity between Watch App and iPhone App in my head, struggled to remember what was needed.
+
+**Link(s) to work**
+1. [code-kata]
