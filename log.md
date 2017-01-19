@@ -126,3 +126,12 @@
 
 **Link(s) to work**
 1. [code-kata]
+
+### Day 15: January 18, Wednesday
+
+**Today's Progress**: Code Kata for Watch Connectivity. 
+
+**Thoughts** Got on much better today, did some reading after yesterday and managed to get the Apps talking to each other. Downside for Apple Watch App is that it does need to be running for the communication to work in the fashion I chose. But good exercise non the less.
+
+**Link(s) to work**
+1. [code-kata] https://github.com/drewwestcott/Request-Update/commit/23c4b5c8d2b649625c24405c702c6df79688fb06
