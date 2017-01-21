@@ -135,3 +135,21 @@
 
 **Link(s) to work**
 1. [code-kata] https://github.com/drewwestcott/Request-Update/commit/23c4b5c8d2b649625c24405c702c6df79688fb06
+
+### Day 16: January 19, Thursday
+
+**Today's Progress**: App Project. 
+
+**Thoughts** Used the learning from yesterdays code kata to allow my projects iPhone App to set up targets and communicate changes made to the watch App.
+
+**Link(s) to work**
+1. [project] https://bitbucket.org/drewwestcott/steps-tracker
+
+### Day 17: January 20, Friday
+
+**Today's Progress**: Exercise and App Store. 
+
+**Thoughts** started a coding exercise and worked on how to submit Apps to the App Store.
+
+**Link(s) to work**
+1. [project] https://bitbucket.org/drewwestcott/steps-tracker
