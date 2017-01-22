@@ -153,3 +153,12 @@
 
 **Link(s) to work**
 1. [project] https://bitbucket.org/drewwestcott/steps-tracker
+
+### Day 18: January 22, Sunday
+
+**Today's Progress**: Exercise from weheartswift.com. 
+
+**Thoughts** Thought this one would be a quick one and I would move on to another, but brought up lots of questions for best ways to search for a string and search an array. I even tried thinking of how to code without importing Foundation but thought that was a waste of time.
+
+**Link(s) to work**
+1. [exercise] https://github.com/drewwestcott/we-SwiftExercises/commit/fb485a123d13d45d3df7cc30fb376e5d6482ecdb
