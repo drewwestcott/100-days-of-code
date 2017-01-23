@@ -162,3 +162,11 @@
 
 **Link(s) to work**
 1. [exercise] https://github.com/drewwestcott/we-SwiftExercises/commit/fb485a123d13d45d3df7cc30fb376e5d6482ecdb
+
+### Day 19: January 23, Monday
+
+**Today's Progress**: Project. Parse A CSV 
+
+**Thoughts** Started to wrtie a project to read in the contents of a CSV File. Didn't want to just copy and paste though so have been reading the Apple Documentation and writing code from that.
+
+**Link(s) to work**
