@@ -179,3 +179,12 @@
 
 **Link(s) to work**
 1. [project] https://github.com/drewwestcott/CSVparsing/commit/25dc753f5089a7d3b5937001fbcf23b277e32c9a
+
+### Day 21: January 25, Wednesday
+
+**Today's Progress**: Refactored code from yesterday: Parse A CSV 
+
+**Thoughts** Started to wrtie a project to read in the contents of a CSV File. Decided to make code a bit more portable and cleaner. Refactored to one function.
+
+**Link(s) to work**
+1. [project] https://github.com/drewwestcott/CSVparsing
