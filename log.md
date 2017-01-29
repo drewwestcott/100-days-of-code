@@ -207,3 +207,11 @@
 **Link(s) to work**
 1. [app] https://bitbucket.org/drewwestcott/steps-tracker/commits/e544b0fdf8530bf5b74455745a21c42c78fb43b5
 
+### Day 24: January 29, Sunday
+
+**Today's Progress**: Playing with date code 
+
+**Thoughts** wanted to understand how to calculate the number of days since a date. Ran into a problem with saving to userdefaults in Playgrounds. But decided to work around that by manually creating a start date. Will be using this in my next project.
+
+**Link(s) to work**
+1. [app] https://github.com/drewwestcott/we-SwiftExercises/commit/85b4fe5697e7889e06011d8aee223e2c1550b483
