@@ -188,3 +188,22 @@
 
 **Link(s) to work**
 1. [project] https://github.com/drewwestcott/CSVparsing
+
+### Day 22: January 27, Friday
+
+**Today's Progress**: Fixed a bug in my beta project 
+
+**Thoughts** Had tried to tidy up my code before submitting to Test Flight, and realised as people started to test it that the notifications were not firing. Tracked down error and corrected.
+
+**Link(s) to work**
+1. [app] https://bitbucket.org/drewwestcott/steps-tracker/commits/e544b0fdf8530bf5b74455745a21c42c78fb43b5
+
+### Day 23: January 28, Saturday
+
+**Today's Progress**: Test modal presentation of a view controller 
+
+**Thoughts** wanted to understand presenting a view over the top of another, whilst still being able to see the original view below. Ended up with some crashes which took time to debug. Turned out I renamed the viewcontroller and it hadn't been set correctly in the Identity Inspector
+
+**Link(s) to work**
+1. [app] https://bitbucket.org/drewwestcott/steps-tracker/commits/e544b0fdf8530bf5b74455745a21c42c78fb43b5
+
