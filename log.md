@@ -215,3 +215,18 @@
 
 **Link(s) to work**
 1. [app] https://github.com/drewwestcott/we-SwiftExercises/commit/85b4fe5697e7889e06011d8aee223e2c1550b483
+
+### Day 25 - 26: February 6-7, Monday & Tuesday
+
+**Today's Progress**: Playing with downloading a file using iOS and swift 
+
+**Thoughts** Feel off the horse a bit, as couldn't think what to code next. Started to think of some new App ideas and so breaking them down into parts that will be needed. Managed to get file to download on iPhone which was exciting, but couldn't get the code to work for the Apple Watch at the moment.
+
+### Day 27: February 8, Wednesday
+
+**Today's Progress**: Testing Local Notifications. 
+
+**Thoughts** trying to explore local notifications on iOS and how they react to actions on the notification message.
+
+**Link(s) to work**
+1. [test-app] https://github.com/drewwestcott/swift3-local-notification-test/commit/53dc69f4eadc3c553c5f89531c38de3a31da4d35
