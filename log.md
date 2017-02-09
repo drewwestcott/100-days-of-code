@@ -230,3 +230,12 @@
 
 **Link(s) to work**
 1. [test-app] https://github.com/drewwestcott/swift3-local-notification-test/commit/53dc69f4eadc3c553c5f89531c38de3a31da4d35
+
+### Day 28: February 9, Thursday
+
+**Today's Progress**: Encoding Class for UserDefaults. 
+
+**Thoughts** exploring encoding Custom Class to store in UserDefaults.
+
+**Link(s) to work**
+1. [test-app] https://github.com/drewwestcott/Centering-Thoughts/commit/22e96fc2c7b03a354cc57a5f8cf186b7bc00ed35
