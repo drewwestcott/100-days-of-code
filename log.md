@@ -247,3 +247,11 @@
 **Thoughts** Need to set up some instruction pages when an App is first launch. Trying UIPageViewController as a way to apprach this. For some reason only first page is showing. Full of head cold though so debugging will be tomorrow's hour.
 
 1. [test-app] https://github.com/drewwestcott/onBoarding/commit/ffa168cb041d7c01e976e48ffda37b9c6f42db0b
+
+### Day 30: February 12, Sunday
+
+**Today's Progress**: Trying to use UIPageViewController. 
+
+**Thoughts** Debugged error: Mistyped VC name in array. Also added extra page to the UIPageViewController. Also made the UIPageViewController present modally over an existing view as this is the most likely use I will have for it.
+
+1. [test-app] https://github.com/drewwestcott/onBoarding/commit/ffa168cb041d7c01e976e48ffda37b9c6f42db0b
