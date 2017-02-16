@@ -255,3 +255,11 @@
 **Thoughts** Debugged error: Mistyped VC name in array. Also added extra page to the UIPageViewController. Also made the UIPageViewController present modally over an existing view as this is the most likely use I will have for it.
 
 1. [test-app] https://github.com/drewwestcott/onBoarding/commit/ffa168cb041d7c01e976e48ffda37b9c6f42db0b
+
+### Day 31-32: February 14-15, Tuesday - Wednesday
+
+**Today's Progress**: Testing Playing Extended Audio Content. 
+
+**Thoughts** Added a mp3 file to my App to test playing a resource in the background. Got really messed up between previous code I was writing to download files. So in the end decide to start a fresh and just focus on audio in the background for Apple Watch. Lesson learned, don't over complicate things at this stage
+
+1. [test-app] https://github.com/drewwestcott/audioPlay/commit/c31da392530314bcf71c36f08491b798cf4e61a8
