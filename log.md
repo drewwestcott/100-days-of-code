@@ -263,3 +263,11 @@
 **Thoughts** Added a mp3 file to my App to test playing a resource in the background. Got really messed up between previous code I was writing to download files. So in the end decide to start a fresh and just focus on audio in the background for Apple Watch. Lesson learned, don't over complicate things at this stage
 
 1. [test-app] https://github.com/drewwestcott/audioPlay/commit/c31da392530314bcf71c36f08491b798cf4e61a8
+
+### Day 33-34: February 17-18, Friday - Saturday
+
+**Today's Progress**: Testing downloading in background on watchOS. 
+
+**Thoughts** Could not get the code to download. Appeared to be starting the session correctly but never completed a download. Try to put breakpoints in to debug the code. Then today started to change the code to try and get a successful download. All in all feeling like i have hit a wall today.
+
+1. https://github.com/drewwestcott/watchOSbackgroundDownload/commit/ae2616902f34baaf6c4127b3d9acc9609bf6d5d9
