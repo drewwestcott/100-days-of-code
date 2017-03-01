@@ -271,3 +271,11 @@
 **Thoughts** Could not get the code to download. Appeared to be starting the session correctly but never completed a download. Try to put breakpoints in to debug the code. Then today started to change the code to try and get a successful download. All in all feeling like i have hit a wall today.
 
 1. https://github.com/drewwestcott/watchOSbackgroundDownload/commit/ae2616902f34baaf6c4127b3d9acc9609bf6d5d9
+
+### Day 33-34: February 17-18, Friday - Saturday
+
+**Today's Progress**: Parsing a set feed to test getting data. 
+
+**Thoughts** Fallen behind a bit as can be seen from the dates, but going to try and be more consistent now.
+
+1. [test-app] https://github.com/drewwestcott/xmlParse/commit/ea5c4f4f8a46a3a1f4197603fb6e1981e28e43c7
