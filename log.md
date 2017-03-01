@@ -272,7 +272,7 @@
 
 1. https://github.com/drewwestcott/watchOSbackgroundDownload/commit/ae2616902f34baaf6c4127b3d9acc9609bf6d5d9
 
-### Day 33-34: February 17-18, Friday - Saturday
+### Day 35: March 1, Wednesday
 
 **Today's Progress**: Parsing a set feed to test getting data. 
 
