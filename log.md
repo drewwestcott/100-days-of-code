@@ -279,3 +279,11 @@
 **Thoughts** Fallen behind a bit as can be seen from the dates, but going to try and be more consistent now.
 
 1. [test-app] https://github.com/drewwestcott/xmlParse/commit/ea5c4f4f8a46a3a1f4197603fb6e1981e28e43c7
+
+### Day 36: March 2, Thursday
+
+**Today's Progress**: Refactored parsing and tested with second feedURL 
+
+**Thoughts** Found a very useful Swift 3 method 'trimmingCharacters(in: .whitespacesAndNewlines)'
+
+1. [test-app] https://github.com/drewwestcott/xmlParse/commit/3f24a789ef44471107f1d73097cd67818743a256
