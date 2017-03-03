@@ -287,3 +287,11 @@
 **Thoughts** Found a very useful Swift 3 method 'trimmingCharacters(in: .whitespacesAndNewlines)'
 
 1. [test-app] https://github.com/drewwestcott/xmlParse/commit/3f24a789ef44471107f1d73097cd67818743a256
+
+### Day 37: March 3, Friday
+
+**Today's Progress**: Feed parsed and then details sent to second ViewController 
+
+**Thoughts** managed to get the feed to select a podcast and then display details and download the podcast in a second view controller.
+
+1. [test-app] https://github.com/drewwestcott/xmlParse/commit/3f24a789ef44471107f1d73097cd67818743a256
