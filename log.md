@@ -295,3 +295,11 @@
 **Thoughts** managed to get the feed to select a podcast and then display details and download the podcast in a second view controller.
 
 1. [test-app] https://github.com/drewwestcott/xmlParse/commit/3f24a789ef44471107f1d73097cd67818743a256
+
+### Day 38: March 4, Saturday
+
+**Today's Progress**: Working with WKInterfacePicker 
+
+**Thoughts** adding a settings view to my Watch App 
+
+1. [beta-app] https://bitbucket.org/drewwestcott/steps-tracker/commits/7375ba2ad0aed8e28fac664102763b97aedaa8b7
