@@ -303,3 +303,11 @@
 **Thoughts** adding a settings view to my Watch App 
 
 1. [beta-app] https://bitbucket.org/drewwestcott/steps-tracker/commits/7375ba2ad0aed8e28fac664102763b97aedaa8b7
+
+### Day 39 - 42 : March 4, Wednesday - Saturday
+
+**Today's Progress**: Intergrating WKInterfacePicker into my watchOS App
+
+**Thoughts** Been finding that the code was causing lag on my Interface, so had to refactor a few times to find the best way to deal with the code 
+
+1. [beta-app] https://bitbucket.org/drewwestcott/steps-tracker/commits/80f9fb7a01cfb839e5a56a4477ee32457a68fc8c
