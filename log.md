@@ -311,3 +311,13 @@
 **Thoughts** Been finding that the code was causing lag on my Interface, so had to refactor a few times to find the best way to deal with the code 
 
 1. [beta-app] https://bitbucket.org/drewwestcott/steps-tracker/commits/80f9fb7a01cfb839e5a56a4477ee32457a68fc8c
+
+**Have been codeing and tweeting and even commiting in the last week, but forgetting to update this log.**
+
+### Day 48: March 19, Sunday
+
+**Today's Progress**: Last few pieces being added to the App before release. 
+
+**Thoughts** Managed to kill the complication from running for some reason, spent over an hour looking at the code and in the end decided to come back tomorrow with fresh eyes. ComplicationController.swift has not changed, so odd that it is not running. 
+
+1. [beta-app] https://bitbucket.org/drewwestcott/steps-tracker/commits/1f7235b761ace1682fcde062a0feef44bfe4f2c6?at=master
