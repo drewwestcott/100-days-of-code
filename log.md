@@ -321,3 +321,11 @@
 **Thoughts** Managed to kill the complication from running for some reason, spent over an hour looking at the code and in the end decided to come back tomorrow with fresh eyes. ComplicationController.swift has not changed, so odd that it is not running. 
 
 1. [beta-app] https://bitbucket.org/drewwestcott/steps-tracker/commits/1f7235b761ace1682fcde062a0feef44bfe4f2c6?at=master
+
+### Day 54: March 28, Tuesday
+
+**Today's Progress**: Started new project exploring CoreMotion and CoreLocation. 
+
+**Thoughts** Starting to type more code from memory, but have to look up some of the CoreLocation syntax.
+
+1 https://github.com/drewwestcott/tabbed-pace/commit/079f082d22fb778fa33b59acd191d968e89ad4a7
