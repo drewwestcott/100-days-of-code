@@ -329,3 +329,11 @@
 **Thoughts** Starting to type more code from memory, but have to look up some of the CoreLocation syntax.
 
 1 https://github.com/drewwestcott/tabbed-pace/commit/079f082d22fb778fa33b59acd191d968e89ad4a7
+
+### Day 57: April 1, Saturday
+
+**Today's Progress**: Data reporting from APIs. 
+
+**Thoughts** Work from last couple of days now starting to come into focus and become a usuable App. Starting me thinking about UX and what the UI will need to be.
+
+1 https://github.com/drewwestcott/tabbed-pace
