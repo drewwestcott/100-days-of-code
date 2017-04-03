@@ -337,3 +337,11 @@
 **Thoughts** Work from last couple of days now starting to come into focus and become a usuable App. Starting me thinking about UX and what the UI will need to be.
 
 1 https://github.com/drewwestcott/tabbed-pace
+
+### Day 58: April 3, Monday
+
+**Today's Progress**: Looking into MPMediaPlayer. 
+
+**Thoughts** Reading developer docs and creating an App that uses MPMediaPlayer.
+
+1 https://github.com/drewwestcott/access-playlists
