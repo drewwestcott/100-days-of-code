@@ -345,3 +345,11 @@
 **Thoughts** Reading developer docs and creating an App that uses MPMediaPlayer.
 
 1 https://github.com/drewwestcott/access-playlists
+
+### Day 62: April 12, Wednesday
+
+**Today's Progress**: Finally making headway on App. 
+
+**Thoughts** Been trying to make the pace App a bit more of a fuller App, but have been struggling to understand how the APIs work. Especially being able to keep recording pace when the App gets backgrounded. Finally got it making some sense today after a few days of trying. 
+
+1 https://github.com/drewwestcott/tabbed-pace/commit/96da032663f49811692ebbdc05562c675c5410db
