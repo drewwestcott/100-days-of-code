@@ -353,3 +353,11 @@
 **Thoughts** Been trying to make the pace App a bit more of a fuller App, but have been struggling to understand how the APIs work. Especially being able to keep recording pace when the App gets backgrounded. Finally got it making some sense today after a few days of trying. 
 
 1 https://github.com/drewwestcott/tabbed-pace/commit/96da032663f49811692ebbdc05562c675c5410db
+
+### Day 63: May 3, Wednesday
+
+**Today's Progress**: Getting App out of beta. 
+
+**Thoughts** sorted out why notifications stopped. previous code to deal with multiple notifications firing had bug in it. 
+
+1 https://bitbucket.org/drewwestcott/steps-tracker/commits/80816ff6f81cb32fe511d53cd5d9e7ab5f22d984
