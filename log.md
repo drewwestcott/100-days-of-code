@@ -361,3 +361,11 @@
 **Thoughts** sorted out why notifications stopped. previous code to deal with multiple notifications firing had bug in it. 
 
 1 https://bitbucket.org/drewwestcott/steps-tracker/commits/80816ff6f81cb32fe511d53cd5d9e7ab5f22d984
+
+### Day 64: May 4, Thursday
+
+**Today's Progress**: Merging development branch into Master. 
+
+**Thoughts** first real time dealing with a pull request and merge conflicts.
+
+1 https://bitbucket.org/drewwestcott/steps-tracker/commits/336bd6708e7ace59bdce5251895968374c72e061
