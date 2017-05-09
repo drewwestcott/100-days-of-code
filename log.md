@@ -369,3 +369,11 @@
 **Thoughts** first real time dealing with a pull request and merge conflicts.
 
 1 https://bitbucket.org/drewwestcott/steps-tracker/commits/336bd6708e7ace59bdce5251895968374c72e061
+
+### Day 65: May 9, Tuesday
+
+**Today's Progress**: Sending file across from iPhone to Watch App. 
+
+**Thoughts** Not sure I really understand path structures on the devices, but managed to hack together something that works. Now need to read and re-read code get stronger understanding.
+
+1 https://github.com/drewwestcott/file-transfer/commit/5eb67dbb6968949956140eef1df03088680c6cc2
